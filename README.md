@@ -13,6 +13,8 @@ This project looks to analyze
 * Total Number of Purchases
 * Total Revenue
 
+
+<img width="793" alt="Pandas_img_1" src="https://user-images.githubusercontent.com/46588030/137227204-75b41595-619f-4eb6-bf23-811516f9c116.png">
 ### Gender Demographics
 
 * Percentage and Count of Male Players
