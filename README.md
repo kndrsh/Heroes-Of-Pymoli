@@ -31,12 +31,14 @@ This project looks to analyze
 
 ### Age Demographics
 
+
 * The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
 
+<img width="790" alt="Pandas_img_2" src="https://user-images.githubusercontent.com/46588030/137227782-46a60b83-599c-4d88-8c1b-4d6639246b33.png">
 ### Top Spenders
 
 * Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
