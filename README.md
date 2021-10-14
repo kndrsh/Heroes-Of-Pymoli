@@ -1,6 +1,6 @@
 # Pandas
 
-This project looks to analyze 
+This project uses Pandas to anlazye  HeroesOfPymoli jupyter notebook and a csv file. The csv file contains purchasing data for players of the game Heroes of Pymoli. It analyzes player gender and age demographics, and profit and popularity of purchased items to find trends in the data.
 
 ### Player Count
 
